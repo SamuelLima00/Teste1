@@ -1,7 +1,0 @@
-#include <stdio.h>
-
-int main() {
-    printf("Até mais, estou indo embora!\n");
-    printf("Tchau!\n");
-    return 0;
-}
